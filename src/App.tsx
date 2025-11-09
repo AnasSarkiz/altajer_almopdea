@@ -74,7 +74,7 @@ export default function App() {
                 <span>{t('call')}</span>
               </a>
               <a 
-                href="mailto:mohamed.iphone202017@gmail.com" 
+                href="mailto:AltajerAlmopdea@gmail.com" 
                 className="flex-1 bg-blue-600 hover:bg-blue-700 text-white py-3 px-6 rounded-lg text-sm font-medium flex items-center justify-center space-x-2 transition-colors"
               >
                 <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
