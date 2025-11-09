@@ -1,4 +1,5 @@
 import useTranslation from './hooks/useTranslation';
+import transportationImage from './assets/image.png';
 
 export default function App() {
   const { t, language, changeLanguage } = useTranslation();
@@ -55,7 +56,7 @@ export default function App() {
             {/* Transportation Image */}
             <div className="my-8 rounded-lg overflow-hidden shadow-xl">
               <img 
-                src="/src/assets/image.png"
+                src={transportationImage}
                 alt="Altajer Almopdea transportation services"
                 className="w-full h-auto object-cover"
                
